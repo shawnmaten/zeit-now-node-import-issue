@@ -1,0 +1,7 @@
+{
+    "version": 2,
+    "name": "node-import-issue",
+    "builds": [
+        { "src": "*.js", "use": "@now/node" }
+    ]
+}
