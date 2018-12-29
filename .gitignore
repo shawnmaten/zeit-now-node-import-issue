@@ -4,3 +4,5 @@
 !.nowignore
 !*.js
 !*.json
+
+config.js
