@@ -1,7 +1,6 @@
 {
     "version": 2,
     "name": "node-import-issue",
-	"public": true,
     "builds": [
         { "src": "endpoint.js", "use": "@now/node", "config": { "maxLambdaSize": "20mb" } }
     ]
