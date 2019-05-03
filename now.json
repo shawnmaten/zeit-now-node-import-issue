@@ -2,6 +2,6 @@
     "version": 2,
     "name": "node-import-issue",
     "builds": [
-        { "src": "endpoint.js", "use": "@now/node" }
+        { "src": "endpoint.js", "use": "@now/node", "config": { "maxLambdaSize": "20mb" } }
     ]
 }

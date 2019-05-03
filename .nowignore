@@ -1,7 +1,0 @@
-*
-
-!.gitignore
-!*.js
-!*.json
-
-server.js
